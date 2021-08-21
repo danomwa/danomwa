@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Data engineer & Software Dev](https://github.com/danomwa/danomwa/blob/7c2ab9ffef8d206e57ac8c684425c9750e12d6f5/Ananlystics_Teamwork_01_generated.jpg)
 
 I'm Dan Omwa from Kenya. I do Data Engineering, Web Development, App Development and Cloud Computing. I really enjoy learning languages and frameworks like React and React Native. I also enjoy teaching. You can check out my twitter at https://twitter.com/OmwaDan. 
 
