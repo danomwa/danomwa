@@ -1,18 +1,15 @@
-### Hi there 👋
 ![Data engineer & Software Dev](https://github.com/danomwa/danomwa/blob/7c2ab9ffef8d206e57ac8c684425c9750e12d6f5/Ananlystics_Teamwork_01_generated.jpg)
 
-I'm Dan Omwa from Kenya. I do Data Engineering, Web Development, App Development and Cloud Computing. I really enjoy learning languages and frameworks like React and React Native. I also enjoy teaching. You can check out my twitter at https://twitter.com/OmwaDan. 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danomwa)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm Dan Omwa Opiyo</h1>
-<h3 align="center">Passionate Data Engineer and Software Developer</h3>
+<h3 align="center">I'm Dan Omwa from Kenya. I do Data Engineering, Web Development, App Development and Cloud Computing. I really enjoy learning languages and frameworks like React and React Native. I also enjoy teaching.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danomwa&label=Profile%20views&color=0e75b6&style=flat" alt="danomwa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danomwa" alt="danomwa" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/omwadan" target="blank"><img src="https://img.shields.io/twitter/follow/omwadan?logo=twitter&style=for-the-badge" alt="omwadan" /></a> </p>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
